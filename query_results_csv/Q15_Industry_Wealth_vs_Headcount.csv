@@ -1,0 +1,19 @@
+industry,billionaire_count,headcount_share_pct,wealth_share_pct,wealth_to_headcount_index
+Technology,40,20.0,27.3,1.37
+Fashion & Retail,30,15.0,18.3,1.22
+Finance & Investments,32,16.0,13.39,0.84
+Diversified,15,7.5,9.09,1.21
+Food & Beverage,15,7.5,5.75,0.77
+Automotive,10,5.0,5.47,1.09
+Metals & Mining,12,6.0,4.35,0.72
+Energy,9,4.5,2.98,0.66
+Manufacturing,8,4.0,2.57,0.64
+Real Estate,8,4.0,2.11,0.53
+Logistics,4,2.0,1.92,0.96
+Healthcare,6,3.0,1.75,0.58
+Telecom,1,0.5,1.6,3.2
+Media & Entertainment,3,1.5,1.54,1.03
+Gambling & Casinos,2,1.0,0.68,0.68
+Sports,3,1.5,0.65,0.43
+Construction & Engineering,1,0.5,0.33,0.66
+Service,1,0.5,0.22,0.43

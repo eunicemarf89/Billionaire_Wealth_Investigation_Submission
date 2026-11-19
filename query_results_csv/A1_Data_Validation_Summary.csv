@@ -1,0 +1,2 @@
+total_rows,distinct_names,rows_with_nulls,min_age,max_age,min_net_worth_bn,max_net_worth_bn,distinct_countries,distinct_industries
+200,200,0,31,100,10.7,233,35,18

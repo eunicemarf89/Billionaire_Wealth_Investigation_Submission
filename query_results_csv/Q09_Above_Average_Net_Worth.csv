@@ -1,0 +1,54 @@
+rank,name,age,country,industry,net_worth_bn,excess_over_avg_bn
+1,Bernard Arnault & family,75,France,Fashion & Retail,233.0,201.16
+2,Elon Musk,52,United States,Automotive,195.0,163.16
+3,Jeff Bezos,60,United States,Technology,194.0,162.16
+4,Mark Zuckerberg,39,United States,Technology,177.0,145.16
+5,Larry Ellison,79,United States,Technology,141.0,109.16
+6,Warren Buffett,93,United States,Finance & Investments,133.0,101.16
+7,Bill Gates,68,United States,Technology,128.0,96.16
+8,Steve Ballmer,68,United States,Technology,121.0,89.16
+9,Mukesh Ambani,66,India,Diversified,116.0,84.16
+10,Larry Page,51,United States,Technology,114.0,82.16
+11,Sergey Brin,50,United States,Technology,110.0,78.16
+12,Michael Bloomberg,82,United States,Finance & Investments,106.0,74.16
+13,Amancio Ortega,88,Spain,Fashion & Retail,103.0,71.16
+14,Carlos Slim Helu & family,84,Mexico,Telecom,102.0,70.16
+15,Francoise Bettencourt Meyers & family,70,France,Fashion & Retail,99.5,67.66
+16,Michael Dell,59,United States,Technology,91.0,59.16
+17,Gautam Adani,61,India,Diversified,84.0,52.16
+18,Jim Walton & family,75,United States,Fashion & Retail,78.4,46.56
+19,Rob Walton & family,79,United States,Fashion & Retail,77.4,45.56
+20,Jensen Huang,61,United States,Technology,77.0,45.16
+21,Alice Walton,74,United States,Fashion & Retail,72.3,40.46
+22,David Thomson & family,66,Canada,Media & Entertainment,67.8,35.96
+23,Julia Koch & family,61,United States,Diversified,64.3,32.46
+24,Zhong Shanshan,69,China,Food & Beverage,62.3,30.46
+25,Charles Koch & family,88,United States,Diversified,58.5,26.66
+26,Giovanni Ferrero,59,Italy,Food & Beverage,43.8,11.96
+27,Prajogo Pangestu,79,Indonesia,Diversified,43.4,11.56
+27,Zhang Yiming,40,China,Technology,43.4,11.56
+29,Tadashi Yanai & family,75,Japan,Fashion & Retail,42.8,10.96
+30,Phil Knight & family,86,United States,Fashion & Retail,40.9,9.06
+31,Mark Mateschitz,31,Austria,Food & Beverage,39.6,7.76
+32,Klaus-Michael Kuehne,86,Germany,Logistics,39.2,7.36
+33,Colin Huang,44,China,Technology,38.9,7.06
+34,Stephen Schwarzman,77,United States,Finance & Investments,38.8,6.96
+35,Jacqueline Mars,84,United States,Food & Beverage,38.5,6.66
+35,John Mars,88,United States,Food & Beverage,38.5,6.66
+37,Dieter Schwarz,84,Germany,Fashion & Retail,38.0,6.16
+38,Li Ka-shing,95,Hong Kong,Diversified,37.3,5.46
+39,Shiv Nadar,78,India,Technology,36.9,5.06
+40,Alain Wertheimer,75,France,Fashion & Retail,36.8,4.96
+40,Gerard Wertheimer,73,France,Fashion & Retail,36.8,4.96
+42,Ken Griffin,55,United States,Finance & Investments,36.4,4.56
+43,MacKenzie Scott,53,United States,Technology,35.6,3.76
+44,Thomas Peterffy,79,United States,Finance & Investments,34.0,2.16
+45,Reinhold Wuerth & family,88,Germany,Manufacturing,33.6,1.76
+46,William Ding,52,China,Technology,33.5,1.66
+46,Savitri Jindal & family,74,India,Metals & Mining,33.5,1.66
+48,Gianluigi Aponte,83,Switzerland,Logistics,33.1,1.26
+48,Rafaela Aponte-Diamant,79,Switzerland,Logistics,33.1,1.26
+50,Changpeng Zhao,47,Canada,Finance & Investments,33.0,1.16
+51,Masayoshi Son,66,Japan,Finance & Investments,32.7,0.86
+52,Len Blavatnik,66,United States,Diversified,32.1,0.26
+53,Miriam Adelson & family,78,United States,Gambling & Casinos,32.0,0.16
